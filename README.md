@@ -5,7 +5,7 @@ SkyTekx3 modpack can download it from GitHub. The jar is attached to the
 [latest release](https://github.com/skytekx/falling-meteors-reimagined/releases/latest).
 
 Falling Meteors was written by AlexDGr8r for Hexxit. The Forge 1.20.1 port is by menoXD and is
-published on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/falling-meteors-reimagined).
+published on [CurseForge](https://www.curseforge.com/projects/1489468).
 The jar's `META-INF/mods.toml` declares the license "GNU LGPL v2.1 or later", and the jar is
 redistributed here under that license, see [LICENSE](LICENSE).
 
